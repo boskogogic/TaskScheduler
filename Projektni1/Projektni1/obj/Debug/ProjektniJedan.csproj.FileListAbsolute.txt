@@ -1,0 +1,7 @@
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\3. GODINA TRECA!\V Semestar\O(dabrana) P(oglavlja) iz O(perativnih) S(istema)\2020\Projektni 1 C#\Projektni1\Projektni1\bin\Debug\Projektni1.exe.config
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\3. GODINA TRECA!\V Semestar\O(dabrana) P(oglavlja) iz O(perativnih) S(istema)\2020\Projektni 1 C#\Projektni1\Projektni1\bin\Debug\Projektni1.exe
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\3. GODINA TRECA!\V Semestar\O(dabrana) P(oglavlja) iz O(perativnih) S(istema)\2020\Projektni 1 C#\Projektni1\Projektni1\bin\Debug\Projektni1.pdb
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\3. GODINA TRECA!\V Semestar\O(dabrana) P(oglavlja) iz O(perativnih) S(istema)\2020\Projektni 1 C#\Projektni1\Projektni1\obj\Debug\ProjektniJedan.csprojResolveAssemblyReference.cache
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\3. GODINA TRECA!\V Semestar\O(dabrana) P(oglavlja) iz O(perativnih) S(istema)\2020\Projektni 1 C#\Projektni1\Projektni1\obj\Debug\ProjektniJedan.csproj.CoreCompileInputs.cache
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\3. GODINA TRECA!\V Semestar\O(dabrana) P(oglavlja) iz O(perativnih) S(istema)\2020\Projektni 1 C#\Projektni1\Projektni1\obj\Debug\Projektni1.exe
+C:\Users\bgogi\Desktop\Disauskas\FAKULTET !!!\3. GODINA TRECA!\V Semestar\O(dabrana) P(oglavlja) iz O(perativnih) S(istema)\2020\Projektni 1 C#\Projektni1\Projektni1\obj\Debug\Projektni1.pdb
